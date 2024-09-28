@@ -10,7 +10,7 @@ export function EmailEditor() {
       <div className={styles.card}>
 
         <div className={styles.editor}>
-          Lorem ipsum odor amet, consectetuer adipiscing elit. Turpis potenti tempus taciti urna dolor, elementum aptent cursus. Nostra quam sed consequat maecenas consequat primis. Molestie eros tristique tincidunt purus pharetra erat libero. Eget placerat phasellus convallis fusce congue auctor ligula aliquet. Mi tellus consectetur lacus ante consequat tristique enim nibh. Dolor sem leo sed nam ridiculus porttitor. Posuere id semper enim adipiscing nibh consequat primis rhoncus.
+          Lorem ipsum odor amet, consectetuer adipiscing elit. Turpis potenti tempus taciti urna dolor, elementum aptent cursus. Nostra quam sed consequat maecenas consequat primis. Molestie eros tristique tincidunt purus pharetra erat libero.
         </div>
         <div className={styles.actions}>
           <div className={styles.tools}>
