@@ -14,10 +14,10 @@ export function EmailEditor() {
         </div>
         <div className={styles.actions}>
           <div className={styles.tools}>
-            <button><Eraser /></button>
-            <button><Bold /></button>
-            <button><Italic /></button>
-            <button><Underline /></button>
+            <button><Eraser size={18} /></button>
+            <button><Bold size={18} /></button>
+            <button><Italic size={18} /></button>
+            <button><Underline size={18} /></button>
           </div>
           <button>Send now</button>
         </div>
