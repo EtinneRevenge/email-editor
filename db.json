@@ -1,0 +1,15 @@
+{
+  "emails": [
+    {
+      "text": "Hello! how its goin?"
+    },
+    {
+      "id": "dce4",
+      "text": "<b>Lorem</b> ipsum odor amet, consectetuer adipiscing elit. Turpis potenti tempus taciti urna dolor, elementum aptent cursus. <i><b>Nostra quam sed</b></i> consequat maecenas consequat primis. <u>Molestie</u> eros tristique tincidunt purus pharetra erat libero."
+    },
+    {
+      "id": "5233",
+      "text": "<b>Hi</b>, <u>lets go outside tonight!</u>"
+    }
+  ]
+}
