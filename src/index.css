@@ -36,6 +36,11 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
+h2 {
+  margin-bottom: 1.5rem;
+
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
